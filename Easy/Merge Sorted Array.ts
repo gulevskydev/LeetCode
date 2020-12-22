@@ -1,4 +1,3 @@
-// Merge Sorted Array
 /**
  Do not return anything, modify nums1 in-place instead.
  */
