@@ -3,7 +3,6 @@
  * @return {number}
  */
 var lengthOfLongestSubstring = function (s) {
-  let count = 0;
   let max = 0;
   let cur = '';
   for (let i = 0; i < s.length; i++) {
