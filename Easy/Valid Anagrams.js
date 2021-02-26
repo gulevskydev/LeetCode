@@ -3,6 +3,7 @@
  * @param {string} t
  * @return {boolean}
  */
+
 var isAnagram = function (s, t) {
   const chars = {};
   for (let i = 0; i < s.length; i++) {
