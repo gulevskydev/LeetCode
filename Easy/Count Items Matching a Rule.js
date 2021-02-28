@@ -1,3 +1,6 @@
+// Runtime: 92 ms, faster than 100.00% of JavaScript online submissions for Count Items Matching a Rule.
+// Memory Usage: 42.8 MB, less than 100.00% of JavaScript online submissions for Count Items Matching a Rule.
+
 /**
  * @param {string[][]} items
  * @param {string} ruleKey
