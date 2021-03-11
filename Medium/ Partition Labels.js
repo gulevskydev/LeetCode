@@ -2,6 +2,7 @@
  * @param {string} S
  * @return {number[]}
  */
+
 var partitionLabels = function (s) {
   const store = {};
   for (let i = 0; i < s.length; i++) {
